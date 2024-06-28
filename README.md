@@ -39,6 +39,7 @@ Sends the image or instructions to the MyCobot robot.
 
 Stores image data and metadata.
 Keeps records of the processed images and any associated data.
+https://docs.mongoengine.org/projects/flask-mongoengine/en/stable/
 
 ## MyCobot Robot (Other repositore)
 
